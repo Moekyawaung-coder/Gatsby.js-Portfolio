@@ -1,0 +1,18 @@
+02-Gatsby.js-Portfolio/
+├─ src/
+│  ├─ components/
+│  │  ├─ Header.js
+│  │  ├─ Footer.js
+│  │  ├─ Hero.js
+│  │  ├─ About.js
+│  │  ├─ Skills.js
+│  │  ├─ Projects.js
+│  │  └─ Contact.js
+│  ├─ pages/
+│  │  └─ index.js
+│  └─ styles/
+│     ├─ global.css
+│     └─ theme.css
+├─ gatsby-config.js
+├─ package.json
+└─ README.md
